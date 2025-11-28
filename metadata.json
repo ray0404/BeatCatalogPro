@@ -1,0 +1,5 @@
+{
+  "name": "BeatCatalog Pro",
+  "description": "A high-performance, offline-first audio library for producers and audiophiles. Features local ingestion, waveform analysis, and zero-latency playback.",
+  "requestFramePermissions": []
+}
